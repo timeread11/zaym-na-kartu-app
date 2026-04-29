@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BananbotApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#FFE032</item>
+        <item name="colorPrimaryDark">#FFC107</item>
+        <item name="colorAccent">#FFEB3B</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>
